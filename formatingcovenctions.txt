@@ -1,0 +1,5 @@
+encoding: utf8
+all entries '.???' with 3 symbols after dot are considered to be non-folders.
+all entries starting with '_' are ommited
+all entries with '.txt' as the ending of filename, are considered to be txt file.
+meta.txt parsing goes by 'newline' and then by ': ' with space, please keep it.
